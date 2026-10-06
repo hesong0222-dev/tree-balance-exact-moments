@@ -1,0 +1,8 @@
+{
+  "title": "Verification code for: Exact moments of tree balance indices under the Yule and uniform models",
+  "creators": [{"name": "Song, Hael", "affiliation": "Korea University"}],
+  "description": "Exact-arithmetic and numerical verification scripts (Python) for the paper 'Exact moments of tree balance indices under the Yule and uniform models' (Colless, I2, Rogers J, I-based, sb-shape, B2 indices and variance of leaf depths under the Yule and uniform/PDA models).",
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["phylogenetics", "tree balance", "Colless index", "combinatorics", "verification"]
+}

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Verification code for: Exact moments of tree balance indices under the Yule and uniform models"
+authors:
+  - family-names: Song
+    given-names: Hael
+    affiliation: Korea University
+version: 1.0.0
+license: MIT
